@@ -1,0 +1,5 @@
+# tool name, then rough tokens its definition adds to every call (optional)
+Bash 900
+Read 600
+Edit 700
+WebFetch 800

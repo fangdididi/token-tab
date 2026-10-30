@@ -1,0 +1,7 @@
+{
+  "as_of": "YYYY-MM-DD",
+  "source": "Paste the provider pricing page you copied these from. All prices are USD per million tokens. The numbers below are placeholders, not real prices.",
+  "models": {
+    "your-model-name": {"input": 0.0, "cache_write": 0.0, "cache_read": 0.0, "output": 0.0}
+  }
+}

@@ -1,0 +1,5 @@
+{"kind":"call","session":"example-1","model":"your-model-name","in":120,"cache_write":21000,"cache_read":0,"out":300}
+{"kind":"tool","session":"example-1","name":"Bash","args":{"command":"npm test"},"ok":false,"result_tokens":850}
+{"kind":"call","session":"example-1","model":"your-model-name","in":90,"cache_write":900,"cache_read":21000,"out":240}
+{"kind":"tool","session":"example-1","name":"Bash","args":{"command":"npm run test:unit"},"ok":true,"result_tokens":400}
+{"kind":"call","session":"example-1","model":"your-model-name","in":60,"cache_write":500,"cache_read":21900,"out":180}
